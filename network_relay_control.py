@@ -12,7 +12,7 @@
                             .        .
                             .        .
                             .        .
-                         .../id: relay x 
+                   .../toggleID: relay x 
                          OFFid = 2x-2; id for turning relay x off
                          ONid  = 2x-1; id for turning relay x on
 """
